@@ -1,5 +1,5 @@
 <h1 align=center> Creating, Hosting, and Developing a React-based Website </h1>
-<p align=center> A Quick Start Guide Created by Prathik Murthy </p>
+<!-- <p align=center> A Quick Start Guide Created by Prathik Murthy </p> -->
 
 ### About the Project:
 - This repository serves as a reference guide to quickly creating and hosting a react-based website
